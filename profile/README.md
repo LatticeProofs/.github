@@ -1,1 +1,1 @@
-Haha
+LatticeProofs aims to build succinct proof systems for arithmetic over polynomial rings. The main motivation for working with polynomial rings is that one of the most promising post-quantum hardness assumptions, lattice-based protocols are based primarily on operations over polynomial rings.
